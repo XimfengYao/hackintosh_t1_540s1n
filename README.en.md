@@ -81,5 +81,3 @@ Black Apple EFI_CLOVER boot file
 2. Create new Feat_xxx branch
 3. Submit the code
 4. New Pull Request
-发送反馈
-历史记录
